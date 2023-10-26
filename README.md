@@ -2,7 +2,7 @@
 
 **`I am a Full Stack Developer, and previously played professional rugby.`**
 
-View my portfolio: www.lorenzomasselli.com
+View my portfolio: [www.lorenzomasselli.com](https://personal-portfolio-lorenzo-df9a3bf0d186.herokuapp.com/)
 
 Currently learning **React**
 
