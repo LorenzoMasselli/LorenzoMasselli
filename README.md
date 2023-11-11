@@ -4,8 +4,6 @@
 
 View my portfolio: [www.lorenzomasselli.com](https://www.lorenzomasselli.com)
 
-Currently learning **React**
-
 **Connect** with me:
 
 <a href="https://www.linkedin.com/in/lorenzo-masselli-6a1894129/"><img  alt="Linkedin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
