@@ -33,9 +33,8 @@
 
 
 
-#
-
-<p>&nbsp;<img align="center" style="margin-top: 60px !important" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
+<div style="height: 60px"></div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
 
 <!--
 
