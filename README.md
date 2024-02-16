@@ -2,7 +2,7 @@
 
 **`I am a Full Stack Developer, and previously played professional rugby.`**
 
-View my portfolio: [www.lorenzomasselli.com](https://www.lorenzomasselli.com)
+- 👨‍💻 All of my projects are available at [https://www.lorenzomasselli.com](https://www.lorenzomasselli.com)
 
 **Connect** with me:
 
@@ -30,6 +30,7 @@ View my portfolio: [www.lorenzomasselli.com](https://www.lorenzomasselli.com)
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="left" alt="React" width="30px" style="padding-right:10px;" /> </a> </p>
 
 <!--
 **LorenzoMasselli/LorenzoMasselli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,15 +47,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzomasselli&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzomasselli" /> </p>
-
-- 🌱 I’m currently learning **Typescript**
-
-- 👨‍💻 All of my projects are available at [https://www.lorenzomasselli.com](https://www.lorenzomasselli.com)
-
 - 📫 How to reach me **lorenzomasselli1@gmail.com**
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
 
