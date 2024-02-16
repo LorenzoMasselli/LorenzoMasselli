@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="left" alt="React" width="30px" style="padding-right:10px;" /> </a> </p>
 
 
-<p>&nbsp;<img align="center" style="margin-top: 60px" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
+<p>&nbsp;<img align="center" style="margin-top:60px !important" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
 
 
 
