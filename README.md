@@ -33,7 +33,6 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="left" alt="React" width="30px" style="padding-right:10px;" /> </a> </p>
 
-<!--
 **LorenzoMasselli/LorenzoMasselli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -49,4 +48,6 @@ Here are some ideas to get you started:
 -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
+
+<!--
 
