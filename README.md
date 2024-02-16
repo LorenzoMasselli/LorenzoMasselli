@@ -3,6 +3,7 @@
 **`I am a Full Stack Developer, and previously played professional rugby.`**
 
 - 👨‍💻 All of my projects are available at [https://www.lorenzomasselli.com](https://www.lorenzomasselli.com)
+- 📫 How to reach me **lorenzomasselli1@gmail.com**
 
 **Connect** with me:
 
@@ -46,8 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 📫 How to reach me **lorenzomasselli1@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
 
