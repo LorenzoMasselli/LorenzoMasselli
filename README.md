@@ -33,7 +33,7 @@
 
 
 ###
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
+<p>&nbsp;<img align="center" style="margin-top: 60px" src="https://github-readme-stats.vercel.app/api?username=lorenzomasselli&show_icons=true&locale=en" alt="lorenzomasselli" /></p>
 
 <!--
 
