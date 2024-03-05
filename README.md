@@ -2,7 +2,7 @@
 
 ##### 👨🏻‍💻 About me:
 
-I am a Frontend Developer with 1+ years of experience with a proven ability to deliver high-quality web applications in a collaborative setting. Proficient in JavaScript, TypeScript, React, and Node.js.
+I am a Frontend Developer with 1+ years of experience with a proven ability to deliver high-quality web applications in a collaborative setting. Proficient in JavaScript, TypeScript, React, Ruby, Ruby on Rails and Node.js.
 
 Programming Languages: JavaScript, TypeScript, Ruby, SQL.
 
